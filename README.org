@@ -4,6 +4,6 @@ Common Lisp bindings to the GNU Readline library
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/vindarel/cl-readline.git |
-| commit  | d4d747f                                         |
+| commit  | 83a53aa                                         |
 | systems | cl-readline                                     |
 |---------+-------------------------------------------------|
